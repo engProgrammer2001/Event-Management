@@ -1,0 +1,64 @@
+
+.carousel-item{
+    height: 70vh;
+    min-width: 300px;
+    background-size: cover;
+}
+#main h1{
+    font-size: 65px;
+    font-weight: bolder;
+    /* padding: 20% 0px; */
+}
+.head{
+    font-size: 45px;
+    font-weight: bolder;
+    /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4); */
+   
+}
+.contact-details{
+    background: #eee;
+    padding: 39px 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+.contact-details h1{
+    padding: 0px;
+    font-size: 26px;
+    font-weight: bold;
+}
+.contact-details p{
+    padding: 0px;
+    margin: 5px;
+}
+.contact-details p span{
+    font-weight: bold;
+}
+.subhead{
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+}
+.subhead h1{
+    font-size: 46px;
+    text-transform: uppercase;
+    word-spacing: 9px;
+    font-weight: bold;
+    
+}
+.form-group label{
+    font-weight: bold;
+}
+/* form .subbtn{
+    border-radius: 22px;
+} */
+.row span{
+    color:red;
+}
+input{
+    border:0;
+    outline:none;
+    list-style:none;
+}
+.maps h1{
+    font-size: 48px;
+    font-weight: bold;
+    
+}
