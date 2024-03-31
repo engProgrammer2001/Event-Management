@@ -1,0 +1,28 @@
+.InBtn{
+    position: fixed;
+    top: 30%;
+    right: -50px;
+    transform: rotate(90deg);
+    background-color: #f71549;
+    border-bottom-left-radius:12px ;
+    font-size: 20px;
+    color: white;
+    border: 2px solid black;
+    padding: 5px 8px;
+    cursor: pointer;
+}
+.InBtn a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.whatsApp{
+    position: fixed;
+    top: 88%;
+    right: 47px;
+    cursor: pointer;
+    z-index: 1;
+}
+.whatsApp img{
+    border-radius: 50%;
+}
